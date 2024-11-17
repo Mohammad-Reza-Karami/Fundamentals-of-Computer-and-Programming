@@ -1,0 +1,1 @@
+Get two whole number and show the maximum of them. (Using ternary conditional operator)
