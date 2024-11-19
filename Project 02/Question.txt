@@ -1,0 +1,1 @@
+Read a whole number and show it's absolute value.
