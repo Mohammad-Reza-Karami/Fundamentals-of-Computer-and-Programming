@@ -6,5 +6,5 @@ The projects of this class are in c++ language. <br/>
   <br/>
   <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2002"> Project 02 <a/>: Read a whole number and show it's absolute value.
   <br/>
-  <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2003"> Project 03 <a/>: Create a integer calculator that includes five operators (+ - * / %) 
+  <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2003"> Project 03 <a/>: Create an integer calculator that includes five operators (+ - * / %) 
 <p/>
