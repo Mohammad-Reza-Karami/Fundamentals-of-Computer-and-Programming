@@ -11,8 +11,8 @@ int main()
     
     // Getting the input operation:
     cout << "Enter your operation (space seperated): ";
-    
     cin >> Number1 >> Operator >> Number2;
+    
     // switch-case structure:
     switch (Operator)
     {
