@@ -1,0 +1,1 @@
+Read an integer number and show it is Odd or Even.
