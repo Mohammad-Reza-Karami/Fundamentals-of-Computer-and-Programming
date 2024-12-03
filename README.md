@@ -10,5 +10,9 @@ The projects of this class are in c++ language. <br/>
     <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2002"> Project 02 <a/>: Read a whole number and show it's absolute value.
     <br/>
     <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2003"> Project 03 <a/>: Create an integer calculator that includes five operators (+ - * / %) 
+    <br/>
+    <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2004"> Project 04 <a/>: Read an integer number and show the next even number. 
+    <br/>
+    <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2005"> Project 05 <a/>: Read an integer number and show it is Odd or Even.
   <p/>
 </h4>
