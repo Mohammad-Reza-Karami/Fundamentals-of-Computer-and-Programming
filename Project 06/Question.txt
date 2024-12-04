@@ -1,0 +1,5 @@
+Implement the following function:
+f(x) =
+-2                  ; x = 0
+x^3 + 2             ; x < 0
+2x^3 - 2x + 1       ; x > 0
