@@ -15,6 +15,6 @@ The projects of this class are in c++ language. <br/>
     <br/>
     <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2005/Answer.cpp"> Project 05 <a/>: Read an integer number and show it is Odd or Even.
     <br/>
-    <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2005/Answer.cpp"> Project 06 <a/>: Implement a given piecewise function.
+    <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2006/Answer.cpp"> Project 06 <a/>: Implement a given piecewise function.
   <p/>
 </h4>
