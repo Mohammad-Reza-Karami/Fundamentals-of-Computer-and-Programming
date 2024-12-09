@@ -1,0 +1,1 @@
+Get a positive integer and print nested hollow squares such that the input is the length of the side of the outermost square. (Consider 1x1 square as a hollow one.)
