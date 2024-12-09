@@ -19,6 +19,6 @@ The projects of this class are in c++ language. <br/>
     <br/>
     <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2007/Answer.cpp"> Project 07 <a/>: Read two integer numbers (First and Second) and show First and Second such that First will be the maximum.
     <br/>
-    <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2008/Answer.cpp"> Get a positive integer and print nested hollow squares such that the input is the length of the side of the outermost square. (Consider 1x1 square as a hollow one.)
+    <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2008/Answer.cpp"> Project 08 <a/>: Get a positive integer and print nested hollow squares such that the input is the length of the side of the outermost square. (Consider 1x1 square as a hollow one.)
   <p/>
 </h4>
