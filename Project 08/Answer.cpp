@@ -287,11 +287,11 @@ int main()
     // Processing:
         // For outermost_square_length < 4:
     if (outermost_square_length == 1)
-        cout << " * ";
+        cout << " * " << endl;
     else if (outermost_square_length == 2)
-        cout << " *  * " << endl << " *  * ";
+        cout << " *  * " << endl << " *  * " << endl;
     else if (outermost_square_length == 3)
-        cout << " *  *  * " << endl << " *     * " << endl << " *  *  * ";
+        cout << " *  *  * " << endl << " *     * " << endl << " *  *  * " << endl;
     else
         {
             // For outermost_square_length >= 4:
