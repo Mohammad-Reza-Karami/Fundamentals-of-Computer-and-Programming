@@ -1,3 +1,5 @@
+// Get name, student I.D. and grades of 5 courses (with the same weights) for 3 students and sort them based on averages or one of the course grades.
+
 #include <iostream>
 
 using namespace std;
