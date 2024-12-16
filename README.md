@@ -21,6 +21,6 @@ The projects of this class are in c++ language. <br/>
     <br/>
     <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2008/Answer.cpp"> Project 08 <a/>: Get a positive integer and print nested hollow squares such that the input is the length of the side of the outermost square. (Consider 1x1 square as a hollow one.)
     <br/>
-    <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2009/Answer.cpp"> Project 09 <a/>: Get name, student I.D. and grades of 5 courses (with the same weights) for 3 students and sort them based on averages or one of the course grades.
+    <a href="https://github.com/Mohammad-Reza-Karami/Fundamentals-of-Computer-and-Programming/tree/master/Project%2009/Answer.cpp"> Project 09 <a/>: Get name, student I.D. and grades of 5 courses (with the same weights) for 3 students and sort them based on averages or the grades of one of the courses.
   <p/>
 </h4>
